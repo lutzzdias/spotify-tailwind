@@ -2,7 +2,11 @@
 
 This project is a clone of the Spotify home screen UI, built using Next.js, TypeScript, and Tailwind CSS. It aims to replicate the design and functionality of the Spotify app's home screen.
 
+![image](https://github.com/lutzzdias/spotify-tailwind/assets/80894260/13709d7d-462e-4f8c-8dcf-e7136450bcd5)
+
+
 ## Demo
+TODO: Host project on github pages and put link here
 A live demo of this project can be found at [Demo Link](https://example.com/).
 
 ## Installation
