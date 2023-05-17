@@ -6,7 +6,7 @@ import {
 
 export function Sidebar() {
   return (
-    <aside className="w-72 bg-zinc-950 p-6">
+    <aside className="w-72 bg-zinc-950 py-4">
       <nav className="space-y-5">
         <a
           href=""
@@ -30,7 +30,7 @@ export function Sidebar() {
           Your Library
         </a>
       </nav>
-      <nav className="mt-6 pt-6 border-t border-zinc-800 flex flex-col gap-3">
+      <nav className="mt-6 flex flex-col gap-3 border-t border-zinc-800 pt-6">
         <a href="" className="text-sm text-zinc-400 hover:text-zinc-100">
           Hot Hits Brasil
         </a>
